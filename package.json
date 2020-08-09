@@ -38,5 +38,13 @@
 		"rxjs": "^5.5.10",
 		"xo": "^0.20.3",
 		"zen-observable": "^0.8.8"
+	},
+	"peerDependenciesMeta": {
+		"rxjs": {
+			"optional": true
+		},
+		"zen-observable": {
+			"optional": true
+		}
 	}
 }
